@@ -1,6 +1,6 @@
 # Loan-Prediction-scikit-learn
 
-## Project designed in Hirachical Learning Method
+## The project was designed using the Hierarchical Learning Method
 
 - Start with basic, machine learning using Logistic Regression and Decision Tree Algorithms.
 - Enhance Machine Learning Accuracy by doing some parameter optimization. Enhance Accuracy by adding the Feature Enginnering
