@@ -11,20 +11,20 @@
 
 ## Notebook
 
-#### Jupyter Notebook 1.   
+#### Jupyter Notebook Loan-Prediction-1.   
 - Data Ingest
 - Data cleaning and machine learning readiness
 - Machine Learning Process and building the model
 - Machine Learning model improvement
 - Saving scikit model to disk and reload them
 
-#### Jupyter Notebook 2.       
+#### Jupyter Notebook Loan-Prediction-2.       
 - Feature Engineering
 
-#### Jupyter Notebook 3.      
+#### Jupyter Notebook Loan-Prediction-3.      
 - Data Augmentation
 
-#### Jupyter Notebook 4.      - 
+#### Jupyter Notebook Loan-Prediction-4.      - 
 - Saving Machine Learning Model for reuse outside the pipeline
 - Reusing (reading from storage) the model for prediction
 
